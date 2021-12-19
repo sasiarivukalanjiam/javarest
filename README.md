@@ -15,14 +15,16 @@ mvn jetty:run
 # to stop the server 
 mvn jetty:stop
 
-## mycalc
+# mycalc
 # sample API call 
 http://127.0.0.1:9999/mycalc/api/mycalc/add?x=4&y=6
 
 
 
-## security
 
+
+# security
+# sample API call
 http://127.0.0.1:9999/security/api/crypto/encrypt?encrypt=premsasikumar
 
 Output: 
