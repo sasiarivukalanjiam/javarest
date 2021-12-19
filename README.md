@@ -1,3 +1,7 @@
+# IDE - windows
+https://mirror.kakao.com/eclipse/oomph/epp/2021-12/R/eclipse-inst-jre-win64.exe
+
+
 # javarest
 building rest api based application using java maven eclipse 
 
