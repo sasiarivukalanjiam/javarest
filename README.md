@@ -37,7 +37,9 @@ Output:
 
 
 http://127.0.0.1:9999/security/api/crypto/decrypt?decrypt=5P9B0ypMsozgeqVnvX3mTg==
+
 output:
+
 {
     "time": "Mon Dec 20 05:05:23 IST 2021",
     "result": "Encrypted text is converted to plain text",
